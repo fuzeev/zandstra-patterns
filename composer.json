@@ -1,0 +1,17 @@
+{
+    "name": "youngsayora/zandstra",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Youngsayora\\Zandstra\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "o.fuzeev"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^6.3"
+    }
+}
